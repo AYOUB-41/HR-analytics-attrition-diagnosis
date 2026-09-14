@@ -78,7 +78,7 @@ DIVIDE(
 - **Executive KPI Cards:** Quick visibility into high-level metrics (Total Employees, Global Attrition Rate).
 - **Donut Chart Analysis:** Visual split of departure volumes by Overtime status (127 Yes vs. 110 No).
 - **Clustered Bar Charts:** Side-by-side comparison of baseline vs. overtime-induced attrition across departments.
-- **Interactive Slicers:** Dynamic filtering by Department, Job Role, and Overtime Status.
+- **Interactive Slicers:** Dynamic filtering by Department, and Overtime Status.
 
 ## Project Setup & Installation
 
